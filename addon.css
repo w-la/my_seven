@@ -1,0 +1,9 @@
+#edit-field-typ--wrapper legend,
+#edit-field-typ--wrapper .form-type-radio {
+  float: left;
+  margin-right: 15px; }
+#edit-field-typ--wrapper .form-radios .form-type-radio:last-child {
+  margin-right: 0; }
+
+footer {
+  text-align: center; }
